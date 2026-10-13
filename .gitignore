@@ -1,0 +1,6 @@
+data
+materials/
+*.csv
+.venv/
+*.gzip
+*[sS][eE][mM][iI][nN][aA][rR]*.ipynb
